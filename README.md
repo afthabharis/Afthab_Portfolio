@@ -1,1 +1,3 @@
-# Afthab_Portfolio
+# Hi, i am Afthab
+## Data Analyst Intern
+### Rows&Columns
